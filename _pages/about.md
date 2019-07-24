@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* Research interests include: computational arts, image processing and machine perception.
+* Research interests: computational arts, image processing and machine perception.
 
 
 # Recent News
