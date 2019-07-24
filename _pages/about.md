@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yuqian Zhou （周宇乾）"
-excerpt: "Yuqian Zhou"
+title: "Daiqian Ma （麻岱迁）"
+excerpt: "Daiqian Ma"
 author_profile: true
 redirect_from: 
   - /about/
