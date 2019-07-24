@@ -1,0 +1,35 @@
+# main links links
+main:
+  - title: "CV"
+    url: /files/cv_yuqian.pdf
+
+  - title: "Publications"
+    url: /publications/
+
+  # - title: "Awards & Honors"
+  #   url: /awards/
+  
+  #- title: "Demos"
+  #  url: /Demos/    
+    
+  #- title: "Photos"
+  #  url: /Photos/  
+  
+  - title: "Life"
+    url: /Life/    
+
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  #- title: "Blogs"
+  #  url: /year-archive/
+    
+  #- title: "Contact"
+    #url: /contact/  
+    
+  # - title: "Guide"
+    # url: /markdown/
