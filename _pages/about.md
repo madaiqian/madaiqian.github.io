@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* It's a secret.
+* Research interests include: computational arts, image processing and machine perception.
 
 
 # Recent News
