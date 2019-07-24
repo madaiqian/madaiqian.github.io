@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuqian Zhou (Francis)"
+title                    : "Daiqian Ma (Ken)"
 title_separator          : "-"
-name                     : &name "Yuqian Zhou"
+name                     : &name "Daiqian Ma"
 description              : &description "personal description"
-url                      : https://yzhouas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://madaiqian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuqian Zhou (Francis)"
+  name             : "Daiqian Ma (Ken)"
   avatar           : "profile.JPG"
-  bio              : "PhD Candidate,IFP Group of Beckman Institute, ECE Department of University of Illinois at Urbana-Champaign "
-  location         : "UIUC, Champaign, US"
+  bio              : "abc "
+  location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=QG2AkuYAAAAJ&hl=en"
   email            : "zhouyuqian133@gmail.com"
