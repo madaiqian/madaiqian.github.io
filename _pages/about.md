@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I am a secret.
+* It's a secret.
 
 
 # Recent News
