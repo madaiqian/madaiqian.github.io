@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Daiqian Ma （麻岱迁）"
+title: "Daiqian Ma（麻岱迁）"
 excerpt: "Daiqian Ma"
 author_profile: true
 redirect_from: 
