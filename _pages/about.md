@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* Unemployment.
+* I am looking for a new chance.
 * Research interests: computational arts, image processing and machine perception.
 
 
