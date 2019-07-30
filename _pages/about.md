@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am working with vehicle perception in Pony.ai. 
-* I obtained my M.S. degree from Peking University in 2019 supervised by Prof. Lingyu Duan and Prof. Boxin Shi and my bachelor degree from Xidian University in 2016.
+* I obtained my M.S. degree from Peking University in 2019 supervised by Prof. Lingyu Duan and Prof. Boxin Shi and my B.S. degree from Xidian University in 2016.
 * Research interests: computational arts, image processing and machine perception.
 
 
