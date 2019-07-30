@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-* I am looking for a new chance.
+* I am working with vehicle perception in [Pony.ai](https://www.pony.ai/). Before that, I obtained my M.S. degree from PKU in 2019 supervised by [Prof. Lingyu Duan](https://scholar.google.com/citations?user=hsXZOgIAAAAJ&hl=en) and [Prof. Boxin Shi](http://alumni.media.mit.edu/~shiboxin/) and my bachelor degree from [Xidian University](https://en.xidian.edu.cn/) in 2016.
 * Research interests: computational arts, image processing and machine perception.
 
 
 # Recent News
+*  1 Aug,  2019. I join [Pony.ai](https://www.pony.ai/)
 * 23 July, 2019. One paper accepted in ICCV 2019.
-* 3 July, 2019. I obtained M.S. degree from PKU (with Excellent Graduate Award).
-* 2 July, 2019. One paper accepted in ACM Multimedia 2019.
-* 1 Feb, 2019. I was awarded as the Excellent Individual of 2018 in [National Engineering Laboratory For Video Technology](http://idm.pku.edu.cn/).
+*  3 July, 2019. I obtained M.S. degree from PKU (with Excellent Graduate Award).
+*  2 July, 2019. One paper accepted in ACM Multimedia 2019.
+*  1 Feb,  2019. I was awarded as the Excellent Individual of 2018 in [National Engineering Laboratory For Video Technology](http://idm.pku.edu.cn/).
