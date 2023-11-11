@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Daiqian Ma（麻岱迁）"
+title: "Daiqian Ma（Ken）"
 excerpt: "Daiqian Ma"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-* I am working on vehicle perception in Pony.ai. 
+* I am working as a research engineer in Bytedance.
 * I obtained my M.S. degree from Peking University in 2019 supervised by Prof. Lingyu Duan and Prof. Boxin Shi and my B.S. degree from Xidian University in 2016.
-* Research interests: computational arts, image processing and machine perception.
+* Research interests: live streaming recommendation， video recommendation， ranking algorithm， foundation models
 
 
 # Recent News
+*  1 Jun,  2020. I joined Bytedance (data-抖音-直播).
 *  1 Aug,  2019. I joined [Pony.ai](https://www.pony.ai/).
 * 23 July, 2019. One paper accepted in ICCV 2019.
 *  3 July, 2019. I obtained M.S. degree from PKU (with Excellent Graduate Award).
